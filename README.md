@@ -1,7 +1,7 @@
 # ContentZones
 Annotated news data with document Content Zones, i.e. semantic and functional components of news articles. 
 
-The repository contains the distributable portion of the annotated data from the TempEval-3 training and test data, the specification of the annotation task to be used in the CAT Tool, and the annotation guidelines.
+The repository contains the distributable portion of the annotated data from the TempEval-3 training and test data, the specification of the annotation task to be used in the <a href="https://dh.fbk.eu/resources/cat-content-annotation-tool">CAT Tool</a>, and the annotation guidelines.
 
 If using the data, please cite this work:
 

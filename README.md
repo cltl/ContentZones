@@ -1,7 +1,7 @@
 # ContentZones
 Annotated news data with document Content Zones, i.e. semantic and functional components of news articles. 
 
-The repository contains the distributable portion of the annotated data from the TempEval-3 training and test data, the specification of the annotation task to be used in the <a href="https://dh.fbk.eu/resources/cat-content-annotation-tool">CAT Tool</a>, and the annotation guidelines. To access to the Penn Discourse TreeBank (PDTB) annotated files, please contact <a href="t.caselli@vu.nl">us</a>
+The repository contains the distributable portion of the annotated data from the TempEval-3 training and test data, the specification of the annotation task to be used in the <a href="https://dh.fbk.eu/resources/cat-content-annotation-tool">CAT Tool</a>, and the annotation guidelines. To access to the Penn Discourse TreeBank (PDTB) annotated files, please contact t.caselli@vu.nl . 
 
 If using the data, please cite this work:
 

@@ -5,4 +5,4 @@ The repository contains the distributable portion of the annotated data from the
 
 If using the data, please cite this work:
 
-Baiamonte, D., T. Caselli, and I. Prodanof. 2016 (to appear). Annotating Content Zones in News Articles. In: Proceedings of the Third Italian Conference on Computational Linguistic (CLiC-it 2016).
+Baiamonte, D., T. Caselli, and I. Prodanof. 2016 (to appear). Annotating Content Zones in News Articles. In: *Proceedings of the Third Italian Conference on Computational Linguistic (CLiC-it 2016)*.
